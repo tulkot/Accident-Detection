@@ -1,4 +1,4 @@
-# Accident-Detection
+# Accident-Severity-Analysis-and-Prediction
 
 Dataset from : https://www.kaggle.com/akshay4/road-accidents-incidence
 
